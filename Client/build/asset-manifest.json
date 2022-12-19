@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React_FullStack_e-commerce_website/static/css/main.e6c13ad2.css",
+    "main.js": "/React_FullStack_e-commerce_website/static/js/main.f584cbee.js",
+    "static/js/787.1b4b7e20.chunk.js": "/React_FullStack_e-commerce_website/static/js/787.1b4b7e20.chunk.js",
+    "static/media/girl.png": "/React_FullStack_e-commerce_website/static/media/girl.5d5c4b4557d1e1ebdd3d.png",
+    "static/media/b.png": "/React_FullStack_e-commerce_website/static/media/b.5f5fec3adc1eeb286e82.png",
+    "static/media/jacket.png": "/React_FullStack_e-commerce_website/static/media/jacket.6ddc720111eb7ba2f28a.png",
+    "static/media/suit.jpg": "/React_FullStack_e-commerce_website/static/media/suit.7d2fda91b9480ec91118.jpg",
+    "index.html": "/React_FullStack_e-commerce_website/index.html",
+    "main.e6c13ad2.css.map": "/React_FullStack_e-commerce_website/static/css/main.e6c13ad2.css.map",
+    "main.f584cbee.js.map": "/React_FullStack_e-commerce_website/static/js/main.f584cbee.js.map",
+    "787.1b4b7e20.chunk.js.map": "/React_FullStack_e-commerce_website/static/js/787.1b4b7e20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f584cbee.js"
+  ]
+}
